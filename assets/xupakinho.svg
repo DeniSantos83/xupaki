@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 760" role="img" aria-labelledby="title desc">
+<title id="title">Xupakinho</title><desc id="desc">Mascote vermelho em formato de geladinho, sorrindo e fazendo joinha.</desc>
+<defs>
+  <linearGradient id="bag" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff5a63"/><stop offset=".48" stop-color="#ef233c"/><stop offset="1" stop-color="#b70d28"/></linearGradient>
+  <linearGradient id="shoe" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ff4d5f"/><stop offset="1" stop-color="#b80e25"/></linearGradient>
+  <filter id="shadow" x="-30%" y="-30%" width="160%" height="180%"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000" flood-opacity=".34"/></filter>
+</defs>
+<g filter="url(#shadow)">
+  <path d="M142 88 Q260 58 378 88 L350 525 Q260 548 170 525 Z" fill="url(#bag)" stroke="#ffd2d8" stroke-width="9"/>
+  <path d="M145 89 Q260 72 375 89" fill="none" stroke="#fff" stroke-opacity=".72" stroke-width="7"/>
+  <path d="M168 522 Q260 541 349 522" fill="none" stroke="#fff" stroke-opacity=".58" stroke-width="7"/>
+  <g opacity=".3" fill="#fff">
+    <circle cx="198" cy="158" r="5"/><circle cx="232" cy="138" r="3"/><circle cx="298" cy="166" r="4"/><circle cx="331" cy="210" r="5"/><circle cx="187" cy="239" r="4"/><circle cx="275" cy="259" r="5"/><circle cx="213" cy="335" r="4"/><circle cx="320" cy="362" r="5"/><circle cx="248" cy="427" r="4"/><circle cx="305" cy="474" r="3"/>
+  </g>
+  <path d="M198 248 Q228 218 254 244" fill="none" stroke="#45111b" stroke-width="13" stroke-linecap="round"/>
+  <path d="M288 238 Q320 214 346 246" fill="none" stroke="#45111b" stroke-width="13" stroke-linecap="round"/>
+  <path d="M188 282 Q215 253 243 280 Q217 310 188 282Z" fill="#fff"/>
+  <ellipse cx="216" cy="281" rx="10" ry="14" fill="#3d1b16"/>
+  <path d="M287 279 Q318 247 350 281 Q322 316 287 279Z" fill="#fff"/>
+  <ellipse cx="320" cy="280" rx="12" ry="16" fill="#3d1b16"/>
+  <circle cx="324" cy="274" r="4" fill="#fff"/>
+  <path d="M205 330 Q260 377 327 326 Q317 405 263 409 Q217 401 205 330Z" fill="#43141b"/>
+  <path d="M222 337 Q261 356 310 335" fill="none" stroke="#fff" stroke-width="17" stroke-linecap="round"/>
+  <path d="M248 382 Q279 354 301 390 Q273 423 244 401Z" fill="#ff8fa3"/>
+  <path d="M248 391 Q268 401 290 392" fill="none" stroke="#e75c78" stroke-width="4"/>
+  <g stroke="#b90c28" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" fill="#ef233c">
+    <path d="M170 337 Q112 351 89 400 Q111 426 142 403 L185 377"/>
+    <path d="M351 336 Q405 346 430 394 Q411 426 383 407 L339 377"/>
+  </g>
+  <g fill="#ef233c" stroke="#b90c28" stroke-width="8">
+    <path d="M79 399 Q54 387 54 362 Q58 344 73 354 L87 369 Q90 340 103 340 Q118 342 116 362 L114 384 Q109 411 79 399Z"/>
+    <path d="M439 393 Q462 381 465 356 Q462 340 448 351 L434 365 Q431 337 418 337 Q404 339 406 359 L408 381 Q411 408 439 393Z"/>
+  </g>
+  <path d="M217 525 L206 622" stroke="#c20d2c" stroke-width="34" stroke-linecap="round"/>
+  <path d="M305 526 L319 620" stroke="#c20d2c" stroke-width="34" stroke-linecap="round"/>
+  <g>
+    <path d="M154 612 Q206 593 252 626 L249 665 Q194 687 137 661 Q135 632 154 612Z" fill="url(#shoe)" stroke="#fff" stroke-width="8"/>
+    <path d="M270 625 Q316 592 368 614 Q387 635 381 664 Q326 688 273 666Z" fill="url(#shoe)" stroke="#fff" stroke-width="8"/>
+    <path d="M153 648 Q200 659 244 648" stroke="#fff" stroke-width="8" fill="none"/>
+    <path d="M281 651 Q326 661 371 649" stroke="#fff" stroke-width="8" fill="none"/>
+    <path d="M165 620 L230 646 M180 612 L238 635 M291 638 L351 612 M300 649 L365 622" stroke="#fff" stroke-width="5" opacity=".9"/>
+  </g>
+</g>
+</svg>
